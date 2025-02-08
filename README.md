@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alien-py (Renat)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming in Python
+- 🌱 I’m currently learning programming in Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
